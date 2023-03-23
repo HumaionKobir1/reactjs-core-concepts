@@ -17,4 +17,14 @@ code {
   background-color: blueviolet;
   padding: 4px;
   border-radius: 10px;
+  margin: 5px;
+  border: solid darkkhaki;
+}
+
+.person{
+  background-color: darkkhaki;
+  border: solid rebeccapurple;
+  border-radius: 10px;
+  margin: 10px;
+  padding: 20px;
 }
